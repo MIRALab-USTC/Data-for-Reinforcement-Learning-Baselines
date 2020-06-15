@@ -10,7 +10,7 @@ We provide all results in google drive and baidu drive.
 
 ##### MuJoCo
 
-![baselines](D:\Desktop\baselines.png)
+![baselines](https://github.com/MIRALab-USTC/Data-for-Reinforcement-Learning-Baselines/raw/master/baselines.png)
 
 * **sac-rlkit:** 
   * code: [rlkit](https://github.com/vitchyr/rlkit) with default hyperparameter setting.

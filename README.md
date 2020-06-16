@@ -14,7 +14,7 @@ We provide all results in google drive and baidu drive.
 
 * **sac-rlkit:** 
   * code: [rlkit](https://github.com/vitchyr/rlkit) with default hyperparameter setting.
-  * paper: [soft actor critic (SAC)](https://arxiv.org/abs/1812.05905). *Fujimoto, Scott, Herke Van Hoof, and David Meger. "Addressing function approximation error in actor-critic methods." arXiv preprint arXiv:1802.09477 (2018).*
+  * Algorithm: [soft actor critic (SAC)](https://arxiv.org/abs/1812.05905). *Haarnoja, Tuomas, et al. "Soft actor-critic algorithms and applications." arXiv preprint arXiv:1812.05905 (2018).*
 * **ddpg-rlkit:**
   * Code: [rlkit](https://github.com/vitchyr/rlkit) with default hyperparameter setting.
   * Algorithm: [deep deterministic policy gradient (DDPG)](https://arxiv.org/abs/1509.02971). *Lillicrap, Timothy P., et al. "Continuous control with deep reinforcement learning." arXiv preprint arXiv:1509.02971 (2015).*

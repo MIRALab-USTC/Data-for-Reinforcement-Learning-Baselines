@@ -22,7 +22,9 @@ We provide all results in [google drive](https://drive.google.com/drive/folders/
   * Code: [authors' code](https://github.com/sfujim/TD3) with default hyperparameter setting.
   * Algorithm: [twin delayed deep deterministic policy gradient arglorithm (TD3)](https://arxiv.org/abs/1802.09477). *Fujimoto, Scott, Herke Van Hoof, and David Meger. "Addressing function approximation error in actor-critic methods." arXiv preprint arXiv:1802.09477 (2018).*
 
-
+* **ppo:** 
+  * Code: [OpenAI Baselines](https://github.com/openai/baselines) with default hyperparameter setting.
+  * Algorithm: [proximal policy optimization (PPO)](https://arxiv.org/abs/1707.06347).*Schulman, John, et al. "Proximal policy optimization algorithms." arXiv preprint arXiv:1707.06347 (2017).*
 
 ### Todo
 

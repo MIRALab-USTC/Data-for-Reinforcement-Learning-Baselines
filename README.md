@@ -26,6 +26,11 @@ We provide all results in [google drive](https://drive.google.com/drive/folders/
   * Code: [OpenAI Baselines](https://github.com/openai/baselines) with default hyperparameter setting.
   * Algorithm: [proximal policy optimization (PPO)](https://arxiv.org/abs/1707.06347).*Schulman, John, et al. "Proximal policy optimization algorithms." arXiv preprint arXiv:1707.06347 (2017).*
 
+
+* **trpo:** 
+  * Code: [OpenAI Baselines](https://github.com/openai/baselines) with default hyperparameter setting.
+  * Algorithm: [trust region policy optimization (TRPO)](http://www.jmlr.org/proceedings/papers/v37/schulman15.pdf).*Schulman, John, et al. "Trust region policy optimization." International conference on machine learning. 2015.*
+
 ### Todo
 
 - [ ] More algorithms and implementations, such as the official implementation of sac.
